@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>youbot_gazebo_worlds</name>
+  <version>0.8.0</version>
+  <description>Gazebo worlds configurations</description>
+  
+  <author email="frederik.hegger@h-brs.de">Frederik Hegger</author>
+  <maintainer email="nss.nikolas@gmail.com">Nikolas Semenov</maintainer>
+  
+  <license>GPLv3</license>
+  
+  <url type="website">http://github.com/mas-group/youbot_simulation</url> -->
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>gazebo_ros</run_depend>
+  <run_depend>xacro</run_depend>
+
+</package>
